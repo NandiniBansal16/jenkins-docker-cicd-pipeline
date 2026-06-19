@@ -161,10 +161,10 @@ git push origin main
 
 Within a minute, Jenkins polls, detects the change, and triggers automatically:
 
-![Jenkins build console output, success](docs/images/10-build-console-success.png)
+![Jenkins build console output, success]("https://github.com/user-attachments/assets/a0a786a7-e97c-4cf4-b639-34da0aef1fdf")
 
 Once the build finishes, the new container is live:
 
-![App running in browser](docs/images/11-app-in-browser.png)
+![App running in browser]("https://github.com/user-attachments/assets/3f68e56e-c39a-42ff-96f2-73223e53a5ed")
 
 ## Project structure
