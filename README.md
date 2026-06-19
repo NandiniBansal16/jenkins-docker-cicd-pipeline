@@ -5,9 +5,7 @@
 - Install Java, then Jenkins from the official apt repository
 - Start the Jenkins service and unlock it via the web UI
 
-![Jenkins EC2 instance launch](docs/images/01-ec2-launch.png)
-
-![Jenkins setup wizard](docs/images/02-jenkins-unlock.png)
+![AWS](https://imgur.com/Hk28ffE.png)
 
 ```bash
 sudo apt update && sudo apt upgrade -y
